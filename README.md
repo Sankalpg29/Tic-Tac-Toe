@@ -11,9 +11,11 @@ Dive into the classic game of Tic Tac Toe with a twist! This project brings you 
 - **Single and Two-Player Modes:** Play against the AI or face off with a friend in two-player mode.
 
 ## Technologies Used
--Python: The core programming language of the project.
--Pygame: Used for creating the graphical user interface and handling game dynamics.
--Machine Learning: Simple AI algorithms to predict player moves and enhance the gaming experience.
+- **Python:** The core programming language of the project.
+
+- **Pygame:** Used for creating the graphical user interface and handling game dynamics.
+
+- **Machine Learning:** Simple AI algorithms to predict player moves and enhance the gaming experience.
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
