@@ -4,11 +4,11 @@
 Dive into the classic game of Tic Tac Toe with a twist! This project brings you an AI-powered version of Tic Tac Toe, enabling players to go head-to-head against a machine learning model. Using Python and Pygame, this project offers both entertainment and a showcase of artificial intelligence in game design.
 
 ## Features
--**AI Opponent**: Challenge yourself against an AI that adapts to your gameplay.
+- **AI Opponent**: Challenge yourself against an AI that adapts to your gameplay.
 
--**Graphical User Interface:** Enjoy a visually appealing game experience with Pygame.
+- **Graphical User Interface:** Enjoy a visually appealing game experience with Pygame.
 
--**Single and Two-Player Modes:** Play against the AI or face off with a friend in two-player mode.
+- **Single and Two-Player Modes:** Play against the AI or face off with a friend in two-player mode.
 
 ## Technologies Used
 -Python: The core programming language of the project.
